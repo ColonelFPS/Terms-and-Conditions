@@ -7,7 +7,7 @@ Terms and Conditions is part of a service that ensure parties understand their c
 
 **ToS**
 
-When using Sir Yeet, all usage must line up with [Discord ToS](https://discord.com/terms). Result of not following the Discord ToS or using the bot in a way of ill-manner, the user will be put on the bot's blacklist by the Developer. The Developer has the right to deny or except the appeal. View the [Privacy Policy](https://github.com/ColonelFPS/Sir-Yeet-s-Privacy-Policy/blob/main/README.md).
+When using Sir Yeet, all usage must line up with [Discord ToS](https://discord.com/terms). Result of not following the Discord ToS or using the bot in a way of ill-manner, the user will be put on the bot's blacklist by the Developer. The Developer has the right to deny or except the appeal. View the [Privacy Policy](https://github.com/ColonelFPS/Sir-Yeet-s-Privacy-Policy/blob/main/README.md) for Sir Yeet.
 
 **Liability**
 
