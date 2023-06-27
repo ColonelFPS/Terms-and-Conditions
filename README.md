@@ -12,7 +12,7 @@ When using Sir Yeet, all usage must line up with [Discord ToS](https://discord.c
 **Liability**
 
 - Tempest and the Developer (tha_colonel) has claim no responsibility for any manner in which the bot is used as it is used how the user tells it to.
-- If the bot is used in a raid or to nuke a server, Sir Yeet and the Developer hold no responsibility as Administrator features require the user to have Administrator permissions to use.
+- If the bot is used in a raid or to nuke a server, Tempest and the Developer hold no responsibility as Administrator features require the user to have Administrator permissions to use.
 - All involved parties in a raid or any misuse of the bot will result in a permanent blacklist from using the bot.
 
 **Notice**
