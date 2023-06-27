@@ -1,5 +1,5 @@
 # Terms-and-Conditions
-**Terms and Conditions for Sir Yeet**
+**Terms and Conditions for Tempest**
 
 
 This is the Terms and Conditions Agreement for [Tempest](https://discord.com/api/oauth2/authorize?client_id=944006750921687081&permissions=8&scope=bot%20applications.commands).
